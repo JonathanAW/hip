@@ -1,0 +1,106 @@
+<style type="text/css">	
+
+
+div.sweetBox 
+{
+float:left;
+height:165px;
+margin:8px;
+background-color:#ffffff;
+}
+
+ div.FrontshopAXX
+  {
+  width:995px;
+
+  margin:0px 0px;
+  background-color:#ffffff;
+  border:0px solid #888888;
+  
+
+
+  }
+  
+  
+  div.sweetBox 
+{
+float:left;
+height:165px;
+margin:8px;
+background-color:#ffffff;
+}
+
+  #xyz_main {
+    width: 140px;
+
+    text-align: left;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -486px;
+}
+
+  
+  div.center {   margin-left: auto;   margin-right: auto; }
+  
+ 
+  .Style_productName
+        {
+        font-family: Arial, sans-serif; font-size:20.0px; 
+        line-height:80%;display:block; color:#000000;
+        } 
+  .Style_productPriceBanner
+        {
+        font-family: Arial, sans-serif; font-size:20.0px; 
+        line-height:80%;display:block; color:#000000;
+        }
+  .Style_productPrice
+        {
+        font-family: Arial, sans-serif; font-size:18.0px; 
+        line-height:80%;display:block; color:#002000;
+        }    
+div.myTabs{
+
+text-align:left
+}
+
+img.myTabs2{
+
+text-align:left;
+    border:1px solid #888888;
+  border-radius:4px;
+}        
+        
+div.rotateP
+{
+float:left;
+-ms-transform:rotate(-42deg); /* IE 9 */
+-moz-transform:rotate(-42deg); /* Firefox */
+-webkit-transform:rotate(-42deg); /* Safari and Chrome */
+-o-transform:rotate(-42deg); /* Opera */
+transform:rotate(-42deg);
+filter:inherit;
+}
+       
+ .Normal-P
+        {
+        margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400; 
+        }
+.Normal-P0
+        {
+        margin:0.0px 0.0px 0.0px 0.0px; text-align:center; font-weight:400; 
+        }
+.Normal-PL
+        {
+        margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400; 
+        }
+.Normal-PC
+        {
+        margin:0.0px 0.0px 0.0px 0.0px; text-align:center; font-weight:400; 
+        }
+.Normal-PR
+        {
+        margin:0.0px 0.0px 0.0px 0.0px; text-align:right; font-weight:400; 
+        }                           
+
+</style>
