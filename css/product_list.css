@@ -11,17 +11,23 @@ background-color:#ffffff;
 
  div.FrontshopAXX
   {
-  width:995px;
+ 
 
   margin:0px 0px;
   background-color:#ffffff;
   border:0px solid #888888;
-  
+  overflow: hidden;
 
 
   }
   
-  
+.SelectedColour {
+    border-style:solid;
+    border-width:1px;
+    color: #ffffff !important;   
+    padding: 0px;  
+    margin: 0px;  
+}  
   div.sweetBox 
 {
 float:left;
@@ -46,19 +52,34 @@ background-color:#ffffff;
  
   .Style_productName
         {
-        font-family: Arial, sans-serif; font-size:20.0px; 
+        font-family: Abel, sans-serif; font-size:20.0px; 
         line-height:80%;display:block; color:#000000;
         } 
   .Style_productPriceBanner
         {
-        font-family: Arial, sans-serif; font-size:20.0px; 
+        font-family: Abel, sans-serif; font-size:20.0px; 
         line-height:80%;display:block; color:#000000;
         }
   .Style_productPrice
         {
-        font-family: Arial, sans-serif; font-size:18.0px; 
+        font-family: Abel, sans-serif; font-size:18.0px; 
         line-height:80%;display:block; color:#002000;
-        }    
+        } 
+  .Style_sideInfoPan1
+        {
+        font-family: Abel, sans-serif; font-size:10.0px; 
+        line-height:80%;display:block; color:#002000;
+        } 
+  .Style_sideInfoPan2
+        {
+        font-family: Abel, sans-serif; font-size:20.0px; 
+        line-height:80%;display:block; color:#000;
+        } 
+  .Style_sideInfoPan3
+        {
+        font-family: Abel, sans-serif; font-size:18.0px !important; 
+        line-height:80%;display:block; color:#000 !important;
+        }           
 div.myTabs{
 
 text-align:left
@@ -80,6 +101,22 @@ float:left;
 -o-transform:rotate(-42deg); /* Opera */
 transform:rotate(-42deg);
 filter:inherit;
+}
+
+
+.Cursor_Pointer
+{
+cursor:pointer;
+} 
+div.Cursor_Pointer
+{
+cursor:pointer;
+} 
+
+
+span.Cursor_Pointer
+{
+cursor:pointer;
 }
        
  .Normal-P
